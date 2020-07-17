@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BookFactory/static/css/main.a4d94e2c.chunk.css",
+    "main.js": "/BookFactory/static/js/main.bf0fcce4.chunk.js",
+    "main.js.map": "/BookFactory/static/js/main.bf0fcce4.chunk.js.map",
+    "runtime-main.js": "/BookFactory/static/js/runtime-main.7ce974a3.js",
+    "runtime-main.js.map": "/BookFactory/static/js/runtime-main.7ce974a3.js.map",
+    "static/js/2.da38207a.chunk.js": "/BookFactory/static/js/2.da38207a.chunk.js",
+    "static/js/2.da38207a.chunk.js.map": "/BookFactory/static/js/2.da38207a.chunk.js.map",
+    "index.html": "/BookFactory/index.html",
+    "precache-manifest.96ef28c2d3579090579103d634db9022.js": "/BookFactory/precache-manifest.96ef28c2d3579090579103d634db9022.js",
+    "service-worker.js": "/BookFactory/service-worker.js",
+    "static/css/main.a4d94e2c.chunk.css.map": "/BookFactory/static/css/main.a4d94e2c.chunk.css.map",
+    "static/js/2.da38207a.chunk.js.LICENSE.txt": "/BookFactory/static/js/2.da38207a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ce974a3.js",
+    "static/js/2.da38207a.chunk.js",
+    "static/css/main.a4d94e2c.chunk.css",
+    "static/js/main.bf0fcce4.chunk.js"
+  ]
+}

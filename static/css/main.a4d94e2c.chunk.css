@@ -1,0 +1,2 @@
+#root,body,html{height:100%;margin:0}body{font-family:Helvetica,Arial}.app{min-height:100%;flex-direction:column;display:flex;min-width:900px}.app-body{display:flex;flex:1 1}.content{position:relative;flex:1 1}.circular{position:absolute;left:0;right:0;top:0;bottom:0;margin:auto}.left-part{flex:1 1}.left-part,.right-part{display:flex;align-items:center}.right-part{width:150px;justify-content:flex-end}.footerItem{font-size:14px;margin-bottom:5px}.footerItem:hover{text-decoration:underline;color:#4282ad}
+/*# sourceMappingURL=main.a4d94e2c.chunk.css.map */
